@@ -5,10 +5,10 @@
 // "balances" a maping whose keys are of type address & values are type integer, used to store token balances
 // "allownce" it includes all the accounts approved to withdraw from owner's acc + how many tokens to withdraw
 // set the values of state variables in the constructor
-// token1name: Token2
-// token1Symbol: TK2
-// token1TotalSupply=150;
-// token1decimals = 8;
+// token2name: Token2
+// token2Symbol: TK2
+// token2TotalSupply=150;
+// token2decimals = 8;
 // Used a modifier names "onlyOwner" to set owner as the caller of fuctions
 // Get the values of all state variables by making getter function--as they are internal
 // function balanceOf: Returns the amount balance with address 'tokenOwner'
