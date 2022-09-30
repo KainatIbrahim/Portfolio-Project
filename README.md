@@ -1,14 +1,14 @@
 //Portfolio-Project
-// contract ERC20token1
+// contract ERC20token2
 // Declared state variables public
 // used 2 mapping objects. "balances" and "allownce"
 // "balances" a maping whose keys are of type address & values are type integer, used to store token balances
 // "allownce" it includes all the accounts approved to withdraw from owner's acc + how many tokens to withdraw
 // set the values of state variables in the constructor
-// token1name: Token1
-// token1Symbol: TK1
-// token1TotalSupply=100;
-// token1decimals = 18;
+// token1name: Token2
+// token1Symbol: TK2
+// token1TotalSupply=150;
+// token1decimals = 8;
 // Used a modifier names "onlyOwner" to set owner as the caller of fuctions
 // Get the values of all state variables by making getter function--as they are internal
 // function balanceOf: Returns the amount balance with address 'tokenOwner'
