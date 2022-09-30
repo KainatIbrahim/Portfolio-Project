@@ -1,5 +1,7 @@
 # Portfolio-Project
+
 # contract ERC20token1
+
 # Declared state variables public
 # used 2 mapping objects. "balances" and "allownce"
 # "balances" a maping whose keys are of type address & values are type integer, used to store token balances
